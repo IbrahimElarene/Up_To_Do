@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1010174681066",
+    "project_id": "push-notifications-a7b94",
+    "storage_bucket": "push-notifications-a7b94.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010174681066:android:18e2fd96cde4a959151c93",
+        "android_client_info": {
+          "package_name": "com.example.to_do_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw6NotaI3hdCCTsU2a4svnjEr2bmFJRnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010174681066:android:1b5fb43928eba2a9151c93",
+        "android_client_info": {
+          "package_name": "realme.C21Y"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw6NotaI3hdCCTsU2a4svnjEr2bmFJRnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
