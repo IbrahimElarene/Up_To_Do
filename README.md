@@ -2,9 +2,8 @@
 
 <div align="start">
      
-    <a href="https://www.linkedin.com/in/ibrahim-elareney/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-    </a>
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-elareney/)
+
 
 </div>
 
@@ -78,5 +77,6 @@ https://github.com/AmmarAgeeza/Up-To-Do-App/assets/72443818/47054951-596b-4fe5-9
 
 - Contributions are welcome 💜
 - If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
 
 
